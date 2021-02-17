@@ -1,6 +1,6 @@
 module github.com/FGtatsuro/k8s-controller-poc
 
-go 1.15
+go 1.16
 
 require (
 	k8s.io/api v0.0.0-20210206010904-48bd8381a38a
